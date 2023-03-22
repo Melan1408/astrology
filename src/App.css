@@ -1,0 +1,346 @@
+.cls-33-cut,.cls-61-cut,.cls-63-cut,.cls-64-cut,.cls-65-cut  {
+  display:inherit;	
+  }
+    svg#matrix-svg {
+    max-width: 800px;
+    min-width: 635px;
+    height: 100%; 
+    width: 100%;   
+    }
+
+.matrix_container{
+  text-align: center;
+}
+
+  .cls-1 {
+    isolation: isolate;
+  }
+  
+  .cls-2 {
+    opacity: 0.75;
+  }
+  
+  .cls-11, .cls-12, .cls-14, .cls-16, .cls-17, .cls-18, .cls-20, .cls-23, .cls-26, .cls-27, .cls-3, .cls-31, .cls-32, .cls-37, .cls-4, .cls-47, .cls-5, .cls-64, .cls-65, .cls-7 {
+    fill: none;
+  }
+  
+  .cls-17, .cls-18, .cls-21, .cls-24, .cls-3, .cls-4, .cls-65 {
+    stroke: #201600;
+  }
+  
+  .cls-11, .cls-12, .cls-14, .cls-16, .cls-17, .cls-18, .cls-20, .cls-21, .cls-23, .cls-24, .cls-26, .cls-27, .cls-3, .cls-31, .cls-32, .cls-37, .cls-4, .cls-47, .cls-5, .cls-7 {
+    stroke-miterlimit: 10;
+  }
+  
+  .cls-21, .cls-24, .cls-3, .cls-5, .cls-7 {
+    stroke-width: 2px;
+  }
+  
+  .cls-5 {
+    stroke: #4d59a1;
+  }
+  
+  .cls-6 {
+    fill: #4d59a1;
+  }
+  
+  .cls-7 {
+    stroke: #d24a43;
+  }
+  
+  .cls-8 {
+    fill: #d24a43;
+  }
+  
+  .cls-9 {
+    mix-blend-mode: multiply;
+  }
+  
+  .cls-10 {
+    fill: #939;
+  }
+  
+  .cls-11, .cls-64 {
+    stroke: #fff;
+    stroke-width: 3px;
+  }
+  
+  .cls-12, .cls-27 {
+    stroke: #939;
+  }
+  
+  .cls-13 {
+    fill: #36c;
+  }
+  
+  .cls-14 {
+    stroke: #36c;
+  }
+  
+  .cls-15 {
+    fill: #3eb4f0;
+  }
+  
+  .cls-16 {
+    stroke: #3eb4f0;
+  }
+  
+  .cls-17, .cls-18, .cls-27, .cls-31, .cls-32, .cls-37 {
+    stroke-width: 0.5px;
+  }
+  
+  .cls-18 {
+    stroke-dasharray: 5.04 5.04;
+  }
+  
+  .cls-19 {
+    fill: #d14a44;
+  }
+  
+  .cls-20, .cls-31 {
+    stroke: #d14a44;
+  }
+  
+  .cls-21, .cls-30, .cls-36, .cls-48, .cls-51, .cls-54, .cls-57, .cls-59 {
+    fill: #fff;
+  }
+  
+  .cls-22 {
+    fill: #d88a4b;
+  }
+  
+  .cls-23 {
+    stroke: #d88a4b;
+  }
+  
+  .cls-24 {
+    fill: #f4f4f4;
+  }
+  
+  .cls-25 {
+    fill: #f7de74;
+  }
+  
+  .cls-26 {
+    stroke: #fbdb4a;
+  }
+  
+  .cls-28, .cls-33, .cls-39, .cls-44, .cls-48, .cls-51 {
+    font-size: 10px;
+  }
+  
+  .cls-70 {
+    font-size: 12px;
+  }
+
+  .cls-28, .cls-30, .cls-34, .cls-35, .cls-36, .cls-40, .cls-41, .cls-43, .cls-51, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-70 {
+    font-weight: 700;
+  }
+  
+  .cls-29, .cls-35, .cls-41 {
+    letter-spacing: -0.01em;
+  }
+  
+  .cls-30, .cls-43 {
+    font-size: 12px;
+  }
+  
+  .cls-32 {
+    stroke: #000;
+  }
+  
+  
+  .cls-36 {
+    font-size: 8px;
+  }
+  
+  .cls-37 {
+    stroke: #c7504b;
+  }
+  
+  .cls-38 {
+    fill: #c7504b;
+  }
+  
+  .cls-44, .cls-61 {
+    font-style: italic;
+  }
+  
+  .cls-45 {
+    letter-spacing: -0.01em;
+  }
+  
+  .cls-46 {
+    letter-spacing: 0.01em;
+  }
+  
+  .cls-47 {
+    stroke: #f7de74;
+  }
+  
+  .cls-49 {
+    letter-spacing: -0.04em;
+  }
+  
+  .cls-50 {
+    letter-spacing: -0.03em;
+  }
+  
+  .cls-52 {
+    font-size: 41.04px;
+    fill: #4cde03;
+  }
+  
+  .cls-53 {
+    fill: red;
+  }
+  
+  .cls-54, .cls-55, .cls-56 {
+    font-size: 40px;
+  }
+  
+  .cls-56 {
+    fill: #fcfcfc;
+  }
+  
+  .cls-57, .cls-58 {
+    font-size: 18px;
+  }
+  
+  .cls-59, .cls-60 {
+    font-size: 25px;
+  }
+  
+  .cls-61 {
+    font-size: 7px;
+  }
+  
+  .cls-62 {
+    letter-spacing: -0.07em;
+  }
+  
+  .cls-63 {
+    fill: #201600;
+  }
+  .matrix-value-point {
+    text-anchor: middle;
+    alignment-baseline: middle;
+    dominant-baseline: middle;
+  }
+
+
+  .circle {
+    padding: 8px 14px 9px 14px;
+    background: #FFFFFF;
+    border: 2px solid hsl(192, 55%, 42%);
+    border-radius: 200px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 15px;
+    color: #000000;
+    max-width: fit-content;
+    margin-right: 10px;
+    margin-left: 10px;
+
+
+    transition: 0.3s;
+  }
+
+
+
+img.sep_img {
+vertical-align: middle;
+}
+
+  #results_table {
+      font-size: 14px!important;
+      margin: 0 auto;
+      text-align:center;
+      margin-top: 0px;
+      border: 1px solid #000;
+      border-collapse: collapse;
+      width: 100%;
+      height: auto;
+  }
+  
+  
+  #results_table td{
+    padding:4px!important;
+    border: 1px solid #000;
+    margin: 0;
+    vertical-align:middle;
+    text-align:center;
+    white-space:nowrap;
+  }
+  
+  #results_table p{
+    font-size:12px!important;
+    margin:0!important;
+  }
+  
+  td.td_caption, td.itogo, td.td_month {
+    font-weight:bold;
+    background: #cccccc;
+    }
+    
+    td.muladhara {
+    background: #cc3333;
+    color: white;
+    }
+    
+    td.anahata {
+    background: #66cc66;
+    color: white;
+    }
+    
+    td.manipura {
+    background: #ffff99;
+    color: black;
+    }
+    
+    td.svadhistana {
+    background: #ff9900;
+    color: white;
+    }
+    
+    td.vishudha {
+    background: #33ccff;
+    color: white;
+    }
+    
+    td.adjna {
+    background: #3366ff;
+    color: white;
+    }
+    
+    td.sahasrara {
+    background: #993399;
+    color: white;
+    }    
+
+    .pad-30 {
+      padding:30px 10px;
+    }
+
+    .App {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+    }
+
+    @media screen and (max-width: 1200px) {
+      .circle {
+        font-size: 14px;
+        line-height: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      .circle {
+        margin-right: 0px;
+        margin-left: 0px;
+      }
+    }
